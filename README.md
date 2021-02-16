@@ -2,9 +2,6 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>
-My Portfolio
-    </title>
   </head>
 <body style = "background-color:orange;">
     <div id = "header">
