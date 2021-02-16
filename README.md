@@ -1,1 +1,6 @@
-# 1337.github.io
+“All the world's a stage,
+And all the men and women merely players;
+They have their exits and their entrances;
+And one man in his time plays many parts,
+His acts being seven ages.”
+― William Shakespeare, As You Like It
