@@ -61,5 +61,3 @@ My Portfolio
 <p> Hi there! I'm studying Communication Design at Yıldız Technical University </p>
        </div>
         </div>
-  </body>
-</html>
